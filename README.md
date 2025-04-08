@@ -13,7 +13,7 @@ Here you can find a table with the notebooks and their descriptions.
 
 ## How to use
 
-This project uses python 3.11.11 you can install the dependencies using the following command:
+This project uses Python 3.11.11. You can install the dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
