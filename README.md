@@ -10,6 +10,7 @@ Here you can find a table with the notebooks and their descriptions.
 | -------- | ----------- |
 | [Intro to Numpy](notebooks/Lesson%20II%20-%20Numpy%20Intro.ipynb) | Introduction to the Numpy package. |
 | [Intro to Pandas](notebooks/Lesson%20III%20-%20Pandas%20Intro.ipynb) | Introduction to the Pandas package. |
+| [Intro to Matplotlib and Seaborn](notebooks/Lesson%20IV%20-%20Matplotlib%20Intro.ipynb) | Introduction to the Matplotlib package. |
 
 ## How to use
 
