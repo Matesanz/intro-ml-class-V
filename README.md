@@ -8,6 +8,10 @@ A repo where I'm storing projects in my data science course. 🚀
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+my resuklt in kaggle:
+
+![result](https://private-user-images.githubusercontent.com/44867923/436227497-1a4ec5a9-5cc7-49cd-bd9d-8ea624e80e67.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUzNDg5NDAsIm5iZiI6MTc0NTM0ODY0MCwicGF0aCI6Ii80NDg2NzkyMy80MzYyMjc0OTctMWE0ZWM1YTktNWNjNy00OWNkLWJkOWQtOGVhNjI0ZTgwZTY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIyVDE5MDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiZGMwYmU4NzYyYjUwNWY4YTQyMzczNzFmNDg5ODBjNDlkZGIwMjM4YmUzOTE0MzI5MDYwYjg0ZDhjOTRhNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wq1zbFKnEAhzOKap6IUghLslpbb1tm16f-A_txLpP70)
+
 ## Notebooks
 
 Here you can find a table with the notebooks and their descriptions.
