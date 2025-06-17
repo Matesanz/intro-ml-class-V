@@ -1,4 +1,5 @@
 mlruns/
+mlartifacts/
 data/
 
 # Byte-compiled / optimized / DLL files
